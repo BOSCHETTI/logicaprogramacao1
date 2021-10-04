@@ -7,6 +7,30 @@ namespace Logicaprogramacao1
         static void Main(string[] args)
         {
 
+            //Entrada de dados(input)
+            Console.WriteLine("Digite seu nome:");
+            string nome = Console.ReadLine();
+            Console.WriteLine($"O seu nome é {nome}");
+
+
+            //Casting/Parse
+            //bool booleano = true
+            //string frase = "A terra é redonda?" + booleano;
+            
+            
+            //string idade = "20";
+            //string idade2 = "30";
+            //int somaIdades = Convert.ToInt32(idade) + Convert.ToInt32(idade2);
+            //Console.WriteLine(somaIdades);
+            
+            
+            
+            
+            //int idade = 65;
+            //string frase = "A minha idade é:" + idade;
+            //Console.WriteLine(frase);
+
+
             //string sobremesa = "Pudim";
             //bool estouAcimaDoPeso = false;
 
